@@ -1,2 +1,2 @@
-#DispCaps
+DispCaps
 
